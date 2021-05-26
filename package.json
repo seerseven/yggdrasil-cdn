@@ -1,0 +1,19 @@
+{
+  "name": "drasilcdn",
+  "version": "1.0.0",
+  "description": "YGG-Drasil Framework CDN",
+  "main": "index.html",
+  "scripts": {
+    "test": "drasil test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seerseven/yggdrasil-cdn"
+  },
+  "author": "Parallax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seerseven/yggdrasil-cdn/issues"
+  },
+  "homepage": "https://github.com/seerseven/yggdrasil-cdn#readme"
+}
